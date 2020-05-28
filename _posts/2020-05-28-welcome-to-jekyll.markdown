@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Sir Isaac Newton
 title:  "Welcome to Jekyll Blogging!"
 date:   2020-05-28 11:43:58 +0100
 categories: jekyll update
